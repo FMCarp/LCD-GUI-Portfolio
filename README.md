@@ -1,8 +1,8 @@
 # LCD GUI **Portfolio**
 
 Some of my LCD GUI projects <br />
-They were designed using Segger emWin graphics library
-and run on 4.3" LCD attached to LPC1788 NXP microcontroller.
+They were designed using Segger emWin graphics library <br />
+and run on 4.3" LCD with touchscreen, attached to LPC1788 NXP microcontroller.
 
 #
 #
